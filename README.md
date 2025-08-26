@@ -33,7 +33,7 @@ bash
 python modify_readme.py
 Then follow the prompts:
 
-🔤 Enter the filename of your README file
+🔤 Enter the filename of your markdown file
 
 📊 The program will process the file
 
@@ -45,7 +45,7 @@ Input file: readme.md
 markdown
 # My Project
 A simple example.
-Output file: readme_modified.md
+Output file: text_modified.md
 
 markdown
 # My Project
