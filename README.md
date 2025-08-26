@@ -42,14 +42,9 @@ Then follow the prompts:
 📝 Example
 Input file: readme.md
 
-markdown
 # My Project
 A simple example.
 Output file: text_modified.md
-
-markdown
-# My Project
-A simple example.
 
 ## Modified Section
 This README was automatically modified by a Python script.
